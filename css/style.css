@@ -1,0 +1,87 @@
+.title {
+    text-align: center;
+    padding: 30px;
+    font-size: 50px;
+}
+
+.title span {
+    font-size: 40px;
+    color: #EA49B6;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-info {
+    max-width: 500px;
+}
+.main img {
+    max-width: 350px;
+}
+.main-info ul{
+padding-left: 17px;
+}
+
+.main-info a {
+    font-size: 20px;
+    color: #EA49B6;
+    text-decoration: none;
+}
+.form {
+    max-width: 420px;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+}
+.form h2 {
+    text-align: center;
+    font-size: 35px;
+}
+.form input {
+    padding: 10px;
+    font-size: 23px;
+    border-radius: 10px;
+    border: 2px solid rgb(255, 157, 230);
+    margin-bottom: 20px;
+    background-color: aliceblue;
+}
+.form button {
+   background-color: #EA49B6;
+   padding: 16px;
+   border-radius: 10px;
+   border:  rgb(255, 157, 230) 3px solid;
+   color: white;
+   font-size: 20px;
+}
+.form button:hover {
+    background-color: plum;
+    color: black;
+    border: pink 3px solid;
+}
+body {
+    background-color: aliceblue;
+}
+.tan img {
+max-width: 500px;
+margin: 75px;
+}
+.basa img {
+width: 50px;
+float: left;
+}
+.basa ul {
+    margin-left: 700px;
+}
+.basa li {
+    padding: 25px;
+    margin: 30px;
+}
+.basa h3 {
+    margin-left: 800px;
+    font-size: 50px;
+}
+.basa {
+    margin-left: 100px;
+}
